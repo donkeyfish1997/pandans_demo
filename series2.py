@@ -16,6 +16,7 @@ import pandas as pd
 #數字運算
 # print("Max",data.max())
 # print("Sum",data.sum())
+# print("平均值",data.mean())
 # print("表準差",data.std())
 # print("中位數",data.median())
 # print("最大的二個數\n",data.nlargest(2))    #nsmallest(2)
